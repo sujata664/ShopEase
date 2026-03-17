@@ -56,7 +56,7 @@ const Formss = () => {
             <textarea id="other" placeholder='Please Specify' required className='p-2 text-black rounded-lg w-full m-2'></textarea><br />
             
             <button className="px-6 py-3 my-8 bg-red-500 text-white rounded-full hover:text-black transition duration-300 transform hover:-translate-y-2">
-              Contact
+              Send Message
             </button>
           </form>
         </div>
